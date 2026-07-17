@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Derra Kusdianurman 👋</h1>
+<p align="center">
+  <img
+    src="./assets/dark-anime-banner.svg"
+    width="100%"
+    alt="Derra Kusdianurman — Dark Anime Developer"
+  />
+</p>
 
 <p align="center">
   Web developer yang belajar lewat eksperimen—dari Laravel
