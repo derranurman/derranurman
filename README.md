@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Derra Kusdianurman 👋</h1>
 
 <p align="center">
-  Web developer yang belajar lewat eksperimen—dari Laravel, CRUD,
-  sampai portfolio yang punya karakter.
+  Web developer yang belajar lewat eksperimen—dari Laravel
 </p>
 
 <p align="center">
@@ -23,13 +22,13 @@
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=derranurman&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub statistics"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=derranurman&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="Derra's GitHub statistics"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=derranurman&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most used languages"
+    width="37%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=derranurman&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="Derra's most used languages"
   />
 </p>
