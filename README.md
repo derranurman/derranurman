@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Derra Kusdianurman 👋</h1>
 
-<!--
-**derranurman/derranurman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Web developer yang belajar lewat eksperimen—dari Laravel, CRUD,
+  sampai portfolio yang punya karakter.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2A3B7&center=true&vCenter=true&width=550&lines=Building+quietly%2C+shipping+boldly.;Laravel+%E2%80%A2+Web+%E2%80%A2+Curious+Ideas;One+commit+at+a+time."
+    alt="Typing animation"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🔭 Sedang mengembangkan project web
+- 🌱 Belajar Laravel, PHP, CSS, dan JavaScript
+- 🎨 Menyukai desain gelap dengan sentuhan anime
+- 📫 Temukan project saya di repository GitHub
+
+## GitHub statistics
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=derranurman&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=derranurman&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
