@@ -26,15 +26,13 @@
 
 ## GitHub statistics
 
+
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=derranurman&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
-    alt="Derra's GitHub statistics"
-  />
-  <img
-    width="37%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=derranurman&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"
-    alt="Derra's most used languages"
-  />
+  <a href="https://github.com/derranurman">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=derranurman&bg_color=0d1117&color=f0a3b5&line=d73752&point=ffffff&area=true&hide_border=true"
+      width="100%"
+      alt="Derra's GitHub activity graph"
+    />
+  </a>
 </p>
