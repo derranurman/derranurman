@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="./assets/dark-anime-banner.svg"
+    src="./assets/dark-anime-github-banner.png"
     width="100%"
-    alt="Derra Kusdianurman — Dark Anime Developer"
+    alt="Dark anime coding banner"
   />
 </p>
 
