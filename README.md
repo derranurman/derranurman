@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="./assets/dark-anime-github-banner.png"
+    src="./assets/derra-anime-animated-banner.svg"
     width="100%"
-    alt="Dark anime coding banner"
+    alt="Derra Kusdianurman — Animated Anime Banner"
   />
 </p>
 
